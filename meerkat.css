@@ -1,0 +1,181 @@
+/* @font-face {
+	  font-family: 'bahnschrift';
+	  src: url('bahnschrift.ttf'); } */
+
+    html {
+      background-color:black;
+    }
+
+    .longimg img{
+    width: 100%;
+    }
+
+body {
+  background-color: white;
+  margin: 50px;
+}
+
+h1{
+font-family: chantal, sans-serif;
+font-weight: 300;
+font-style: normal;
+font-size: 40px;
+background-color:#ffd633;
+width: 350px;
+margin: 20px;
+text-align: center;
+border-radius: 0px 0px 25px 25px;
+}
+
+
+nav {
+  position: absolute;
+  padding-left: 800px;
+}
+li {
+  display: inline;
+  text-align: right;
+  padding-top:30px;
+  padding-left: 15px;
+font-family: source-sans-pro, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 20px;
+}
+
+
+
+
+
+li a{
+  color:white;
+  text-decoration: none;
+}
+li a:hover {
+  color: #ffd633;
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+a:hover, a:focus {
+    background-size: 100% 2px;
+}
+
+
+h2 {
+  padding-left: 50px;
+font-family: source-sans-pro, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 35px;
+background-color: #ffd633;
+margin: 20px 100px 20px 100px;
+}
+
+.softboi img{
+  margin-left: 200px;
+}
+
+#diettitle {
+  padding-left: 275px;
+font-family: source-sans-pro, sans-serif;
+font-weight: 600;
+font-style: normal;
+font-size: 30px;
+}
+
+
+p{
+  padding-left:200px;
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  width: 650px;
+}
+
+
+
+.diet p {
+  background-color:#ffd633;
+  padding:5px 5px 5px 5px;
+  margin-left:200px;
+  width: 200px;
+  text-align: center;
+  overflow: auto;
+  font-size: 20px;
+}
+
+.dietimg img {
+  float: right;
+margin-right: 500px;
+  width: 350px;
+  max-width: 40%;
+  height: auto;
+}
+
+.desertimg img {
+  float: right;
+margin-right: 500px;
+  width: 350px;
+  max-width: 40%;
+  height: auto;
+  margin-left:10px;
+}
+
+.family2img img {
+  float: right;
+margin-right: 500px;
+  width: 350px;
+  max-width: 40%;
+  height: auto;
+}
+
+
+.desertimg img {
+  float: right;
+margin-right: 500px;
+  width: 350px;
+  max-width: 40%;
+  height: auto;
+  margin-left:10px;
+}
+
+.video {
+  padding-left:100px;
+}
+
+.manor {
+  float:right;
+  padding-right: 200px;
+}
+
+.timon img{
+  float:right;
+  padding-right: 200px;
+  width:400px;
+}
+
+.alvin img{
+  float:right;
+  padding-right: 200px;
+  width:400px;
+  margin:5px;
+  padding-bottom:20px;
+}
+
+footer {
+font-family: source-sans-pro, sans-serif;
+font-weight: 200;
+font-style: normal;
+font-size: 25px;
+color: white;
+background-color:black;
+}
